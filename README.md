@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://imgur.com/a/XGeZj8M" alt="Linux Logo"/>
+![R](https://github.com/user-attachments/assets/598285a7-2faa-4be9-bca6-8fa666252511)
+
 </p>
 
 <h1> Searching and Previewing Files using Head, Tail, More, and Less</h1>
