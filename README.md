@@ -48,6 +48,8 @@ Use the preview commands to determine which of the files contain readable text d
 </p>
 <p>
 STEP 2: Using the "Less" tool followed by the file name, see if there are read-able or non-readable text in the file
+
+- I used the "Less" command where I was able to see the contents of do.txt, allowing me to see it does contain read-able content
   
 </p>
 <br />
