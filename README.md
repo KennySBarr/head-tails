@@ -5,7 +5,12 @@
 </p>
 
 <h1> Searching and Previewing Files using Head, Tail, More, and Less</h1>
-This tutorial outlines the use commands like head, tail, more, and less to preview files in the command line.<br />
+You are continuing in your role as a security analyst at Candy Corp, investigating the employees potentially selling secret recipes to Sugar Corp.
+Your manager at Candy Corp has identified two possible insiders who may be working with Sugar Corp: Henry and Ruth.
+Your manager pulled some files from Henry and Ruth's computers without their knowledge.
+Some of the files contain gibberish, but some may have useful data.
+Your manager has asked you to preview the files to see whether they have readable text data that can be analyzed later.
+<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -16,7 +21,7 @@ This tutorial outlines the use commands like head, tail, more, and less to previ
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> 
 
 <h2> Naviating Linux
 
